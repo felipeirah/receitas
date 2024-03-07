@@ -1,0 +1,39 @@
+header{
+    background-color: orange;
+    padding: 5px;
+    text-align: center;
+
+}
+
+img{
+    width: 250px;
+    height: 200px;
+    border-radius: 50px;
+    display: block;
+    margin: auto;
+    padding-top: 10px;
+
+}
+
+p{
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+
+}
+
+footer{
+    background-color: orange;
+    padding: 30px;
+}
+
+
+
+#pave{
+    width: 650px;
+    height: 300px;
+    margin: auto;
+    display: block;
+    
+    
+}
